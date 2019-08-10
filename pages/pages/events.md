@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Khách Sạn'
+title: 'Danh mục Quan Tâm'
 layout: Events
 path: '/events/'
-meta: Danh mục Khách Sạn
-keywords: Danh mục Khách Sạn
+meta: Danh mục Quan Tâm
+keywords: Danh mục Quan Tâm
 ---

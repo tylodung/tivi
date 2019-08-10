@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Địa Điểm'
+title: 'Danh mục Tivi Lớn'
 layout: Releases
 path: '/releases/'
-meta: Danh mục Địa Điểm
-keywords: Danh mục Địa Điểm
+meta: Danh mục Tivi Lớn
+keywords: Danh mục Tivi Lớn
 ---

@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Ẩm Thực'
+title: 'Danh mục Tivi Mini'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Ẩm Thực
-keywords: Danh mục Ẩm Thực
+meta: Danh mục Tivi Mini
+keywords: Danh mục Tivi Mini
 ---
