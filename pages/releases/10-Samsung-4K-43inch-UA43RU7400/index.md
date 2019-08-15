@@ -4,7 +4,7 @@ title: Samsung 4K 43 inch UA43RU7400
 layout: ReleasePage
 category: releases
 path: '/releases/Samsung-4K-43inch-UA43RU7400/'
-key: samsung4k43
+key: samsung4k43ru
 
 meta: Samsung 4K 43 inch UA43RU7400
 keywords: Samsung 4K 43 inch UA43RU7400
